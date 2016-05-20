@@ -1,0 +1,20 @@
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+*.DS_Store
+target
+*.idea
+*.iml
+*.ipr
+*.iws
+rebel.xml
+*.error
+
+# Adding Eclipse specific ignored files #
+.project
+.settings
+.classpath
+.metadata
+*.sqlite
